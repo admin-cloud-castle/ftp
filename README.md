@@ -42,7 +42,7 @@ Production-ready PHP 8.1+ библиотека Ftp (CloudCastle).
 [![Maintainability](https://qlty.sh/gh/admin-cloud-castle/projects/ftp/maintainability.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/ftp)
 [![Qlty Coverage](https://qlty.sh/gh/admin-cloud-castle/projects/ftp/coverage.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/ftp)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/admin-cloud-castle/ftp/badge)](https://scorecard.dev/viewer/?uri=github.com/admin-cloud-castle/ftp)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects?as=badge&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fftp)](https://www.bestpractices.dev/projects?as=entry&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Fftp)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15725/badge)](https://www.bestpractices.dev/projects/15725)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=admin-cloud-castle_ftp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=admin-cloud-castle_ftp)
 [![Snyk](https://snyk.io/test/github/admin-cloud-castle/ftp/badge.svg)](https://snyk.io/test/github/admin-cloud-castle/ftp)
 [![Codacy](https://img.shields.io/badge/Codacy-dashboard-blue)](https://app.codacy.com/gh/admin-cloud-castle/ftp/dashboard)
